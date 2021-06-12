@@ -1,0 +1,14 @@
+COLORS
+
+light blue - #00cdff
+dark blue - #212143
+dark grey(text) - #1a1a1a
+light grey(text) - #4d4d4d
+
+FONT
+
+Inter (500 & 700)
+
+
+
+
